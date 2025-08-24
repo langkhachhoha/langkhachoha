@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00C853&center=true&vCenter=true&width=950&lines=🚀+You+bring+the+problem,+I+bring+the+AI;Together,+we+make+it+work!;Collaboration+turns+challenges+into+innovation)](https://git.io/typing-svg)
 
+![Profile views](https://komarev.com/ghpvc/?username=langkhachhoha&color=blue&style=flat-square)
+
 
 ### 👋 Hi, I'm **Ha Minh Hieu**
 
