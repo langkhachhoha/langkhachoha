@@ -1,17 +1,17 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Pushing+the+Boundaries+of+AI+%26+Optimization;Where+Generative+AI+Meets+Heuristics;Transforming+Complexity+into+Elegance)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00C853&center=true&vCenter=true&width=950&lines=🚀+You+bring+the+problem,+I+bring+the+AI;Together,+we+make+it+work!;Collaboration+turns+challenges+into+innovation)](https://git.io/typing-svg)
+
 
 ### 👋 Hi, I'm **Ha Minh Hieu**
 
-✨ **Welcome to my GitHub profile** — here I share projects, research, and experiments at the intersection of **AI-driven Optimization** and **Generative AI for Operations Research**.
+✨ **Welcome to my GitHub profile** — where I share projects, research, and experiments at the intersection of **AI-driven Optimization** and **Generative AI for Operations Research**.
 
-🎓 I am a researcher in **Artificial Intelligence**, focusing on Generative AI, Large Language Models, and Operations Research.  
-🤖 I design and analyze **optimization algorithms**, enhanced with **LLM-driven heuristics** and generative techniques.  
-📊 My work advances **AI for scientific discovery and applied research**, addressing complex problems in operations research.  
+🎓 I am a researcher in **Artificial Intelligence**, with a focus on **Generative AI, Large Language Models (LLMs), and Operations Research**.  
+🤖 I develop and analyze **optimization algorithms**, enhanced by **LLM-driven heuristics** and generative techniques.  
+📊 My research advances **AI for scientific discovery and applied domains**, tackling challenging problems in operations research.  
+🎨 Beyond academia, I enjoy creating **AI applications** with **intuitive, user-friendly interfaces**, leveraging the full potential of AI in practical and impactful ways.  
 
-💡 I am currently conducting research on **AI for optimization problems**, with particular emphasis on **LLM-assisted automatic heuristic design** to reduce reliance on domain experts.  
-I welcome collaborations on automation-related problems — including (but not limited to) **routing, navigation, and robotics**.  
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00C853&center=true&vCenter=true&width=800&lines=Your+problems,+my+solutions+—+let’s+innovate+together!)](https://git.io/typing-svg)
+💡 Currently, my work centers on **AI for optimization problems**, especially **LLM-assisted automatic heuristic design** that reduces reliance on domain experts.  
+I welcome collaborations on diverse automation challenges — from **routing and navigation** to **robotics and beyond**.  
 
 ---
 
