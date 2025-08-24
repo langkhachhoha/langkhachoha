@@ -33,27 +33,6 @@ I welcome collaborations on automation-related problems — including (but not l
 
 ---
 
-### 📂 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/langkhachhoha/MPaGE" align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=langkhachhoha&repo=MPaGE&theme=radical&hide_border=true&border_radius=20" width="320" style="margin:6px" />
-  </a>
-  <a href="https://github.com/langkhachhoha/AMO-ACO-Model-GECCO2024" align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=langkhachhoha&repo=AMO-ACO-Model-GECCO2024&theme=radical&hide_border=true&border_radius=20" width="320" style="margin:6px" />
-  </a>
-  <br/>
-  <a href="https://github.com/langkhachhoha/Streamlined-LLM-Apps" align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=langkhachhoha&repo=Streamlined-LLM-Apps&theme=radical&hide_border=true&border_radius=20" width="320" style="margin:6px" />
-  </a>
-  <a href="https://github.com/langkhachhoha/LightMed" align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=langkhachhoha&repo=LightMed&theme=radical&hide_border=true&border_radius=20" width="320" style="margin:6px" />
-  </a>
-</p>
-
-
----
-
 ## 📬 Contact
 
 Please feel free to reach out at **haminhhieu1005@gmail.com** for potential research collaborations or project discussions. I welcome academic and industry partnerships that explore Generative AI, LLMs, and optimization in Operations Research.
