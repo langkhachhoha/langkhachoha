@@ -19,18 +19,18 @@ I welcome collaborations on diverse automation challenges — from **routing and
 
 ### 🚀 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hohalangkhach&show_icons=true&theme=radical&hide_border=true&border_radius=20" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=langkhachhoha&show_icons=true&theme=radical&hide_border=true&border_radius=20" alt="GitHub Stats" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=langkhachhoha&theme=radical&hide_border=true&border_radius=20" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hohalangkhach&layout=compact&theme=radical&hide_border=true&border_radius=20" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=langkhachhoha&layout=compact&theme=radical&hide_border=true&border_radius=20" alt="Top Languages" />
 </p>
 
 ---
 
 ### 📊 Contribution Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hohalangkhach&bg_color=141321&color=E4E4E4&line=F75C7E&point=FFB86C&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=langkhachhoha&bg_color=141321&color=E4E4E4&line=F75C7E&point=FFB86C&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
